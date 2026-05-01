@@ -1,12 +1,11 @@
-# 📱 Tugas API Switch (Flutter)
+# 🔢 Tugas 2: Counter Provider
 
-Project ini menampilkan **dua endpoint API** dari [JSONPlaceholder](https://jsonplaceholder.typicode.com):
+Project ini adalah implementasi **state management dengan Provider** di Flutter.  
+Fitur utama:
 
-- `/users` → daftar pengguna
-- `/todos` → daftar todo
-
-Aplikasi dibuat dengan Flutter, menggunakan `FutureBuilder` untuk menampilkan data dari API.  
-Terdapat tombol **swap (🔄)** di AppBar untuk berpindah antara tampilan User List dan Todo List.
+- Increment (+) → menambah nilai counter
+- Decrement (-) → mengurangi nilai counter
+- Nilai counter otomatis berubah di UI berkat `notifyListeners()`
 
 ---
 
@@ -14,5 +13,5 @@ Terdapat tombol **swap (🔄)** di AppBar untuk berpindah antara tampilan User L
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/Herfian412311007/api-switch.git
+   git clone https://github.com/Herfian412311007/counter-provider.git
    ```
