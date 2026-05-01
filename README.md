@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 Tugas API Switch (Flutter)
 
 Project ini menampilkan **dua endpoint API** dari [JSONPlaceholder](https://jsonplaceholder.typicode.com):
@@ -16,3 +17,6 @@ Terdapat tombol **swap (🔄)** di AppBar untuk berpindah antara tampilan User L
    ```bash
    git clone https://github.com/Herfian412311007/tugas-api-switch.git
    ```
+=======
+# api-switch
+>>>>>>> 0e36ed1c232f70043383811821c8b6179cdcdd03
